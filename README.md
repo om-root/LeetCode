@@ -15,6 +15,7 @@ A collection of LeetCode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/om-root/LeetCode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/om-root/LeetCode/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,4 +36,8 @@ A collection of LeetCode
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/om-root/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/om-root/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
